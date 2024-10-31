@@ -10,6 +10,9 @@ I'm passionate about applying my hands-on experience from multiple training and 
 
 ### 💼 Skills
 **HDL Languages:** Verilog, System Verilog, VHDL
+
 **Programming:** C, C++, Python, Embedded C
+
 **Tools:** QuestaSim, Xilinx Vivado, Synopsys Design Compiler, Cadence Virtuoso, Innovus Cadence
+
 **Soft Skills:** Communication, Problem-solving, Self-learning
